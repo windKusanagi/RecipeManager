@@ -1,5 +1,7 @@
-# RecipeManager - An small Angular 4 SPA for managing recipe's ingredients. Requiring authentication and supporting fetching data from firebase. Showing or Hiding elements and providing router guard based on User's role. Technologies involved: Angular 4, bootstrap CSS and Components, RxJS, firebase authentication and real-time database services, etc.
+# RecipeManager
 
+
+A small Angular 4 SPA for managing recipe's ingredients. Requiring authentication and supporting fetching data from firebase. Showing or Hiding elements and providing router guard based on User's role. Technologies involved: Angular 4, bootstrap CSS and Components, RxJS, firebase authentication and real-time database services, etc.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.1.
 
 ## Development server
